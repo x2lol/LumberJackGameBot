@@ -12,7 +12,7 @@ To get the bot up and running:
 
 1. **Clone the project repository**:
 ```
-git clone https://github.com/CodeGeek2006/LumberJackGameBot.git
+git clone https://github.com/x2lol/LumberJackGameBot.git
 ```
 3. Open it in an IDE or navigate to the main directory.
 4. Run `java Main.java` to start the bot.
